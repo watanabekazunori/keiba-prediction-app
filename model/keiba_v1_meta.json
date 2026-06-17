@@ -1,0 +1,15 @@
+{
+  "version": "keiba_v1.0",
+  "trained_on": "2024-01 〜 2025-12",
+  "n_train_inner": 94251,
+  "n_cal_set": 23563,
+  "n_features": 42,
+  "blend_weights": {
+    "lgb": 0.4,
+    "cat": 0.3,
+    "rk": 0.3
+  },
+  "lgb_best_iter": 135,
+  "cb_best_iter": 316,
+  "rk_best_iter": 12
+}
